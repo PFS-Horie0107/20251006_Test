@@ -6,3 +6,4 @@ TEST0101
                     ⇒真GtiGraph使用
     ⇒Push抑止
         ⇒GitHub Pull Requests確認
+        ⇒GitHub Pull Requests確認2
