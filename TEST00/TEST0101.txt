@@ -1,9 +1,9 @@
 TEST0101
     ⇒TEST0101
         ⇒修正実施
+        ⇒Push抑止
             ⇒GitGraph未使用
                 ⇒GitGraph使用
-                    ⇒真GtiGraph使用
     ⇒Push抑止
         ⇒GitHub Pull Requests確認
         ⇒GitHub Pull Requests確認2
