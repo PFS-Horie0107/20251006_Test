@@ -3,3 +3,4 @@ TEST04
         ⇒GitGraph使用確認前変更
             ⇒GitGraph使用
                 ⇒真GtiGraph使用
+                    ⇒main更新できるか確認
