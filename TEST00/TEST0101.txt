@@ -4,3 +4,5 @@ TEST0101
             ⇒GitGraph未使用
                 ⇒GitGraph使用
                     ⇒真GtiGraph使用
+    ⇒Push抑止
+        ⇒GitHub Pull Requests確認
