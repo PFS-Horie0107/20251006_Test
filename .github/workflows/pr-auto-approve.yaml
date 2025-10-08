@@ -1,5 +1,8 @@
 name: Auto Approve
 # このGitHub Actionsを起動するイベントの種類
+permissions:
+  pull-requests: write
+  contents: read
 on:
   # Pull Request関係のイベント
   pull_request:
